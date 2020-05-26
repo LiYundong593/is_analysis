@@ -59,16 +59,16 @@
 
 ## 6. 用例及界面详细设计
 
-- ### [“修改密码”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/修改用户信息(密码).md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/修改密码.html)
-- ### [“修改用户信息”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/修改用户信息(密码).md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/修改用户信息.html)
-- ### [“查看成绩（学生）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/查看成绩_学生.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/查看成绩（学生）.html)
-- ### [“查看成绩（老师）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/查看成绩_老师.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/查看成绩（老师）.html)
+- ### [“修改密码”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/修改用户信息（密码）.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/修改密码.html)
+- ### [“修改用户信息”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/修改用户信息（密码）.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/修改用户信息.html)
+- ### [“查看成绩（学生）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/查看成绩（学生）.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/查看成绩（学生）.html)
+- ### [“查看成绩（老师）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/查看成绩（老师）.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/查看成绩（老师）.html)
 - ### [“查看用户信息”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/查看用户信息.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/查看用户信息.html)
-- ### [“登出”用例](./用例/登出.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/登出.html)
-- ### [“登录（学生）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/登录.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/登录（学生）.html)
-- ### [“登录（老师）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/登录.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/登录（老师）.html)
+- ### [“登出”用例](),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/登出.html)
+- ### [“登录（学生）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/登录（学生）.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/登录（学生）.html)
+- ### [“登录（老师）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/登录（老师）.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/登录（老师）.html)
 - ### [“评定成绩”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/评定成绩.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/评定成绩.html)
-- ### [“选课（学生）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/选课_学生.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/选课（学生）.html)
-- ### [“选课（老师）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/选课_老师.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/选课（老师）.html)
+- ### [“选课（学生）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/选课（学生）.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/选课（学生）.html)
+- ### [“选课（老师）”用例](https://github.com/LiYundong593/is_analysis/tree/master/test6/用例/选课（老师）.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/选课（老师）.html)
    
 ***
