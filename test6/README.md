@@ -59,8 +59,8 @@
 
 ## 6. 用例及界面详细设计
 
-- ### [“修改密码”用例](./用例/修改密码.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/修改密码.html)
-- ### [“修改用户信息”用例](./用例/修改用户信息.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/修改用户信息.html)
+- ### [“修改密码”用例](./用例/修改用户信息(密码).md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/修改密码.html)
+- ### [“修改用户信息”用例](./用例/修改用户信息(密码).md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/修改用户信息.html)
 - ### [“查看成绩（学生）”用例](./用例/查看成绩_学生.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/查看成绩（学生）.html)
 - ### [“查看成绩（老师）”用例](./用例/查看成绩_老师.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/查看成绩（老师）.html)
 - ### [“查看用户信息”用例](./用例/查看用户信息.md),[界面](https://github.com/LiYundong593/is_analysis/tree/master/test6/ui/查看用户信息.html)
