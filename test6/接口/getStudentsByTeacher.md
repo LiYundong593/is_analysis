@@ -1,6 +1,6 @@
 ﻿
 # 接口：getStudentsByTeacher [返回](../README.md)
-用例： [查看成绩_老师](../用例/查看成绩_老师.md)
+用例： [查看成绩（老师）](../用例/查看成绩（老师）.md)
 
 - 权限：
     老师可以看到RESULT_SUM，WEB_SUM。
