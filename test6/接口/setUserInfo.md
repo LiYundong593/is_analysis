@@ -1,6 +1,6 @@
 ﻿
 # 接口：setUserInfo  [返回](../README.md)
-用例： [修改用户信息](../用例/修改用户信息.md)
+用例： [修改用户信息](https://github.com/LiYundong593/is_analysis/edit/master/test6/用例/修改用户信息.md)
 
 - 功能：
     修改用户的GitHub用户名。
