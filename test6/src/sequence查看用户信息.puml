@@ -1,0 +1,11 @@
+@startuml
+title:基于GitHub的实验管理平台--查看用户信息用例顺序图
+actor 用户
+participant 个人信息
+activate 用户
+    用户->个人信息:获取个人所有信息
+    activate 个人信息
+        个人信息->用户:返回个人所有信息
+    deactivate 个人信息
+deactivate 用户
+@enduml

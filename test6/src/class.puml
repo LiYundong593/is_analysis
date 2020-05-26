@@ -1,0 +1,69 @@
+@startuml
+title 基于GitHub的实验管理平台--类图
+class teachers{
+    <b>teacher_id</b> （老师工号）
+    department （老师所属部门）
+}
+class students{
+    <b>student_id</b> （学号）
+    class （班级）
+    grade（年级）
+    major（专业）
+}
+
+class users {
+    <b>user_id</b> （用户ID）
+    name （用户真实姓名）
+    github_username （用户GitHub账号）
+    update_date （用户GitHub账号修改日期）
+    password （用户密码）
+    disable （用户是否禁用）
+}
+students -|> users
+teachers --|> users
+class grades {
+    int grades_id（分数id）
+    int test_id（实验id）
+    String student_id（学生学号）
+    String github（实验所在github地址）
+    int process（过程叙述）
+    int concept（概念正确）
+    int language（语言表达）
+    int structure（结构条理）
+    int logic（逻辑性）
+    boolean plagiarize（是否抄袭）
+    String comment（教师评语）
+    Date mark_time（评阅时间）
+}
+users "1" -- "n" grades : 查看 >
+class Lesson {
+    int lesson_id（课程id）
+    String teacher_id（教师教职工号）
+    int class_id（班级id）
+    boolean choose（是否学生选课）
+    int year（开课年份）
+    char semester（开课学期）
+    Date set_time（设置时间）
+}
+students "1" -- "n" Lesson : 被动(查看) >
+students "1" -- "n" choose : 主动 >
+class choose {
+    int choose_id（选课id）
+    int lesson_id（课程id）
+    String student_id（学生学号）
+    Date choose_time（选课时间）
+}
+
+class tests {
+    <b>test_id</b> （实验编号）
+    title (实验名称)
+}
+
+Lesson "1" -- "n"  tests :安排考试 >
+tests "1" -- "n"  grades : 得出成绩 >
+choose "1" -- "n"  Lesson : 汇总 >
+
+
+
+
+@enduml
